@@ -18,7 +18,7 @@
 | 📄 [**Cursor 玩家指南**](./cursor玩家指南.md)                     | 从入门到进阶，系统性学习 Cursor 的核心用法。   |
 | ✨ [**Cursor 功能大全**](./cursor%20课程原材料/cursor功能大全.md)     | 详细介绍 Cursor 的每一项功能，可作为速查手册。 |
 | 💡 [**AI 沟通模板**](./cursor-guide-appendices/附录C-AI沟通模板.md) | 提供与 AI 高效协作的 Prompt 模板和实战技巧。     |
-| 🚀 [**更新日志**](./cursor%20课程原材料/cursor更新日志.md)             | 同步记录 Cursor 的重要版本更新内容。           |
+| 🚀 [**更新日志**](./cursor%20课程原材料/cursor更新日志-中文版.md)             | 同步记录 Cursor 的重要版本更新内容。           |
 
 ### 附录
 
